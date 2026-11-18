@@ -14,11 +14,9 @@ unity_project/[Bb]uilds/
 unity_project/[Ll]ogs/
 unity_project/[Uu]ser[Ss]ettings/
 
-# WebGL builds & archives
+# Build archives & OS/IDE caches
 WebGL_Build/
 *.zip
-
-# IDE & OS files
 .vs/
 .vscode/
 .idea/
@@ -30,3 +28,12 @@ WebGL_Build/
 *.userprefs
 .DS_Store
 Thumbs.db
+
+# Python caches & raw CAD backups
+__pycache__/
+*.pyc
+raw_cad_backup/
+
+# Large V8 Engine CAD assets
+*V8 ENGINE*
+*V8_Engine*

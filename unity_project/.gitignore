@@ -1,0 +1,32 @@
+# Unity generated folders (auto-rebuilt on open)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.utmp/
+
+# Exclude local exports & archives
+*.zip
+*.tar.xz
+
+# OS & IDE files
+.DS_Store
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+.idea/
