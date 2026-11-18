@@ -1,0 +1,32 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+unity_project/[Ll]ibrary/
+unity_project/[Tt]emp/
+unity_project/[Oo]bj/
+unity_project/[Bb]uild/
+unity_project/[Bb]uilds/
+unity_project/[Ll]ogs/
+unity_project/[Uu]ser[Ss]ettings/
+
+# WebGL builds & archives
+WebGL_Build/
+*.zip
+
+# IDE & OS files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
